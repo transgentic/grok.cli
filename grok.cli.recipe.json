@@ -1,10 +1,11 @@
 {
+  "iconName": "Cpu",
   "schemaVersion": 1,
   "version": "1.0.0",
   "repository": "grok.cli",
   "providerType": "cli",
   "id": "cli_grok",
-  "title": "Grok CLI",
+  "title": "Grok",
   "adapter": "cli_grok",
   "executable": "grok"
 }
